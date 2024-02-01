@@ -1,7 +1,7 @@
 const PreLoader = () => {
   return (
     <div className="w-[100vw] h-[100vh] bg-[#23365a] text-white fixed bottom-0 left-0 right-0 z-50 flex justify-center items-center overflow-hidden">
-      <div className="flex flex-col justify-center items-center">
+      <div className="flex flex-col justify-center items-center overflow-hidden">
         <a href="" className="mb-2 animation3">
           <img src="/images/logo_pma_branco.png" width={100} />
         </a>
